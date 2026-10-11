@@ -1,0 +1,6 @@
+{
+  "name": "Family Dental Care - Multispeciality Clinic",
+  "description": "Premium dental clinic website with real-time patient booking, clinic office gallery, Google Calendar synchronization, patient reminders, and doctor schedule management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
